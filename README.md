@@ -71,6 +71,8 @@ Suggest improvements in the dashboard design.
 Add new KPIs or charts for deeper insights.
 
 Enhance README documentation.
+<img width="871" height="495" alt="Screenshot 2025-09-01 122557" src="https://github.com/user-attachments/assets/515594ab-78a2-4533-a025-ae082f956d1c" />
+
 
 📜 License
 
